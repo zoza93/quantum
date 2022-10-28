@@ -4,7 +4,10 @@ const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 
 module.exports = {
-  db
+  items,
+  tags,
+  brands,
+  itemTypes
 }
 
 
@@ -25,6 +28,9 @@ module.exports = {
 //   itemTypes = [...new Set(itemTypes)];
 
 //   return {
-//     db
+//     items,
+//         tags,
+//         brands,
+//         itemTypes
 //   };
 // };
