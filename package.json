@@ -7,9 +7,9 @@
     "start": "node server.js"
   },
   "keywords": [
-    "ninjakodtv, json-server,heroku, node, REST API"
+    "zoza93, json-server,heroku, node, REST API"
   ],
-  "author": "Ninjakod TV Mehmet Yılmaz",
+  "author": "Quantum",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
