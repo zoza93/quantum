@@ -25,9 +25,6 @@ module.exports = {
 //   itemTypes = [...new Set(itemTypes)];
 
 //   return {
-//     items,
-//     tags,
-//     brands,
-//     itemTypes,
+//     db
 //   };
 // };
